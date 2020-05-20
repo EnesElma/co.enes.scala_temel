@@ -26,7 +26,7 @@ object Maths {
 
     println(log(10))
     println(log10(10))
-    
+
     println(min(4,6))
     println(max(3,98))
 
