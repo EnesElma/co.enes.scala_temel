@@ -1,7 +1,6 @@
 package sparkTemel.dataframeDataset
 
 import com.mongodb.spark.MongoSpark
-import com.mongodb.spark.config.ReadConfig
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.sql.SparkSession
 
